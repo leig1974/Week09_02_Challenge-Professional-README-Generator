@@ -6,9 +6,9 @@ const path = require("path");
 // TODO: Create an array of questions for user input
 const questions = [  {
     // name = what key will the answer to this question be saved in
-    name: 'Title',
+    name: 'title',
   //  message = what message will be displayed to the user when this question is being asked
-    message: 'What id Project Title?',
+    message: 'What is Project Title?',
     type: 'input',
   },
   {
@@ -73,7 +73,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(answers => {
         console.log(answers);
-        // writeToFile("readme.md", generateMarkdown(answers));
+        writeToFile("readme.md", generateMarkdown(answers));
       });
       
 }
