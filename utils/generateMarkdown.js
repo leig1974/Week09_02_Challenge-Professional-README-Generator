@@ -31,6 +31,17 @@ function generateMarkdown(data) {
 ## Description
 - ${data.description}
 
+# Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contribution](#contribution)
+4. [Test Instruction](#test_instruction)
+5. [License](#license)
+6. [Username](#username)
+7. [Github](#github)
+8. [Email](#email)
+
+
 ## Installation
 - ${data.installation}
 
@@ -46,7 +57,7 @@ function generateMarkdown(data) {
 ## License
 - ${data.license}
 
-## Udername
+## Username
 - ${data.username}
 
 ## Github
