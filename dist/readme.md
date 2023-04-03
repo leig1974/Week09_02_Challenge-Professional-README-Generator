@@ -1,9 +1,9 @@
-# #!
+# node js
 
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-- NOde js
+- node js features
 
 # Table of Contents
 1. [Installation](#installation)
@@ -17,7 +17,7 @@
 
 
 ## Installation
-- to follow
+- to be provided
 
 ## Usage
 - to be provided
@@ -29,13 +29,19 @@
 - to be provided
 
 ## License
-- BSD
+- Apache
 
 ## Username
-- test
+- dtrus
 
 ## Github
-- test
+- dtrus github
 
 ## Email
-- test
+- dtrus@yahoo.com
+
+##Questions
+_If there are any questions_
+- y
+Please contact:
+Email: [dtrus@yahoo.com](mailto:dtrus@yahoo.com)`;

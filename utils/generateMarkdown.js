@@ -65,6 +65,12 @@ function generateMarkdown(data) {
 
 ## Email
 - ${data.email}
+
+##Questions
+_If there are any questions_
+- ${data.questions}
+Please contact:
+Email: [${data.email}](mailto:${data.email})\`;
 `;
 }
 
