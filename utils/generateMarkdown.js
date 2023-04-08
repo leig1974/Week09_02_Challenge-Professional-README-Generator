@@ -66,11 +66,17 @@ function generateMarkdown(data) {
 ## Email
 - ${data.email}
 
-##Questions
+## Questions
 _If there are any questions_
 - ${data.questions}
+---
+
 Please contact:
-Email: [${data.email}](mailto:${data.email})\`;
+
+Email: 
+[${data.email}](mailto:${data.email});
+
+Website: [${data.website}](https://www.yahoo.com);
 `;
 }
 
