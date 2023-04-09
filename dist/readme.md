@@ -1,9 +1,9 @@
-# y
+# Prefessional Read-me Generator
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-- y
+- creat questions for professional read-me generator
 
 # Table of Contents
 1. [Installation](#installation)
@@ -17,37 +17,37 @@
 
 
 ## Installation
-- y
+- as per read me instruction file
 
 ## Usage
-- y
+- as listed questions to be answered
 
 ## Contribution
-- y
+- to record answers, to create video
 
 ## Test Instruction
-- yy
+- as per read me instructions file
 
 ## License
 - Apache
 
 ## Username
-- y
+- leig1974
 
 ## Github
-- y
+- github.com/leig1974
 
 ## Email
-- y
+- leyla.callahan@yahoo.cpom
 
 ## Questions
 _If there are any questions_
-- y
+- yes
 ---
 
 Please contact:
 
 Email: 
-[y](mailto:y);
+[leyla.callahan@yahoo.cpom](mailto:leyla.callahan@yahoo.cpom);
 
-Website: [y](https://www.yahoo.com);
+Website: [www.github.com](https://www.yahoo.com);
